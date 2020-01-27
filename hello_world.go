@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main(){
-    fmt.Printf("hello world\n")
+    const text = "Hello World"
+    fmt.Println(text)
 }
