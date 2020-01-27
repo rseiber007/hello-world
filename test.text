@@ -1,0 +1,4 @@
+if 10 > x:
+	print(hello world)
+else:
+	print(goodbey)
